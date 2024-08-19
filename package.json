@@ -1,0 +1,13 @@
+{
+  "name": "node-debugger-example",
+  "version": "1.0.0",
+  "description": "A simple Fastify server with Dockerimage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Edoardo Crippa",
+  "dependencies": {
+    "fastify": "^4.28.1"
+  }
+}
